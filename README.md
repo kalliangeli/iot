@@ -37,7 +37,7 @@ The Arduino Mega 2560 is programmed to:
 
 Refer to the provided sketches for detailed implementation.
 
-## Ethernet Shield W5100
+## Ethernet Shield 
 ![img_6.png](img_6.png)
 
 ## Pump
