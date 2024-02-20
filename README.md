@@ -37,25 +37,23 @@ The Arduino Mega 2560 is programmed to:
 
 Refer to the provided sketches for detailed implementation.
 
-
 ## Ethernet Shield W5100
-![alt text](image-2.png)
+![img_6.png](img_6.png)
 
 ## Pump
-![alt text](image-3.png)
+![img_5.png](img_5.png)
 
 ## Led
-![alt text](image-4.png)
+![img_4.png](img_4.png)
 
 ## Relay
-![alt text](image-5.png)
+![img_3.png](img_3.png)
 
 
 ## DHT11 Sensor
-![alt text](image-7.png)
-
+![img.png](img.png)
 
 
 ## Final
-![alt text](image-1.png)
-![alt text](image-18.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
